@@ -134,7 +134,7 @@ Use this to apply the style of an image to a content image.
 main(content_path='img/content/dancing.jpg', style_path='img/style/picasso.jpg', mode='style_transfer')
 ```
 
-### 2. isualizing Content Reconstruction from Random Noise
+### 2. Visualizing Content Reconstruction from Random Noise
 Use this to observe how the content image emerges from random noise during optimization.
 
 ```python
@@ -169,6 +169,8 @@ img/
 ```
 
 Happy experimenting!
+
+
 
 ## Results
 
