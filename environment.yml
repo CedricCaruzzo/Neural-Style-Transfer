@@ -1,0 +1,15 @@
+name: neural-style-env
+channels:
+  - defaults
+  - conda-forge
+  - pytorch
+
+dependencies:
+  - python
+  - numpy
+  - matplotlib
+  - pillow
+  - imageio
+  - pytorch
+  - torchvision
+  - cudatoolkit
